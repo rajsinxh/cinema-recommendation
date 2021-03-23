@@ -1,4 +1,4 @@
 # Movie-recommendation-system
 
 
-Deployed Web Application - [CLICK HERE](http://www.cinephilehub.online/)
+Deployed Web Application - [CLICK HERE](https://cinema-recommendation.herokuapp.com//)
